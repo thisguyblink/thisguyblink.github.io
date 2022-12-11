@@ -25,5 +25,5 @@ My GitHub page is http://github.com/thisguyblink.
  It taught me that I could combine skills that I had learned in previous labs to print out a cool image.
  I learned how to use nested loops to change the information in a 2D container and print out information systematically
  With the information I learned from this lab I can manipulate 2D contaries better and I know how to output an image using the Magick library.
-
+![Png from Lab 10 Pt.2](images/output_image.png)
   
